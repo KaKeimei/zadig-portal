@@ -828,7 +828,9 @@ export default {
         {
           value: 4,
           label: 'Amazon EKS',
-          icon: 'iconfont iconaws'
+          icon: 'iconfont iconaws',
+          disabled: true,
+          documentLink: '/pages/cluster_manage/'
         },
         {
           value: 0,

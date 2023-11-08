@@ -1865,7 +1865,7 @@ exports.default = {
       artifactsUnit: '',
       successRate: 'Success Rate',
       automationOfProcesses: 'Automation Of Processes',
-      buildAutomation: 'Duild Automation',
+      buildAutomation: 'Build Automation',
       totalBuilds: 'Total',
       recentBuilds: 'Last 30 days',
       deployAutomation: 'Deploy Automation',
